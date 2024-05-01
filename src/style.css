@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital@0;1&display=swap');
+
 html, body{
   background-color: rgb(36, 36, 36);
   color: whitesmoke;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 body{
