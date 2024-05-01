@@ -219,7 +219,7 @@
     display: flex;
     flex-direction: column;
     margin: 4%;
-    font-size: x-small
+    font-size: smaller;
   }
   .more a{
     margin: 0 4%;
